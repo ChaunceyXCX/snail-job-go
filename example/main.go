@@ -1,9 +1,9 @@
 package main
 
 import (
-	snailjob "github.com/open-snail/snail-job-go"
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/job"
+	snailjob "github.com/ChaunceyXCX/snail-job-go"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/job"
 	"github.com/sirupsen/logrus"
 )
 

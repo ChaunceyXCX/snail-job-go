@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/open-snail/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
 	"github.com/sirupsen/logrus"
 )
 

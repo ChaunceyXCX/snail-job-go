@@ -1,6 +1,6 @@
 package builtin
 
-import "github.com/open-snail/snail-job-go/dto"
+import "github.com/ChaunceyXCX/snail-job-go/dto"
 
 type SnailJobHttpExecutor struct {
 }

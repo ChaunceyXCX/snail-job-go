@@ -8,9 +8,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/rpc"
-	"github.com/open-snail/snail-job-go/util"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/rpc"
+	"github.com/ChaunceyXCX/snail-job-go/util"
 	"google.golang.org/grpc"
 )
 

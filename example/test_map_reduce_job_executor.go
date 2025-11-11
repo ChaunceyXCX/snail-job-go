@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/job"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/job"
 )
 
 // TestMapReduceJobExecutor 这是一个测试类

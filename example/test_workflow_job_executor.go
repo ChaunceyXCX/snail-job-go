@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/job"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/job"
 )
 
 // TestWorkflowJobExecutor 这是一个测试类

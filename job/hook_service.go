@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/open-snail/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
 )
 
 // 线程安全缓冲区

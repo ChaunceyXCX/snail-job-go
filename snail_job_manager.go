@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/open-snail/snail-job-go/constant"
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/job"
+	"github.com/ChaunceyXCX/snail-job-go/constant"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/job"
 	"github.com/sirupsen/logrus"
 )
 

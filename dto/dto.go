@@ -7,7 +7,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/open-snail/snail-job-go/constant"
+	"github.com/ChaunceyXCX/snail-job-go/constant"
 )
 
 type Options struct {

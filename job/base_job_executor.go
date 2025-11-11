@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/open-snail/snail-job-go/constant"
-	"github.com/open-snail/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/constant"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
 	"github.com/sirupsen/logrus"
 )
 

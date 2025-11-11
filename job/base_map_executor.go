@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/open-snail/snail-job-go/constant"
-	"github.com/open-snail/snail-job-go/dto"
-	"github.com/open-snail/snail-job-go/util"
+	"github.com/ChaunceyXCX/snail-job-go/constant"
+	"github.com/ChaunceyXCX/snail-job-go/dto"
+	"github.com/ChaunceyXCX/snail-job-go/util"
 )
 
 type MapExecute interface {

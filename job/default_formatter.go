@@ -2,7 +2,7 @@ package job
 
 import (
 	"fmt"
-	"github.com/open-snail/snail-job-go/util"
+	"github.com/ChaunceyXCX/snail-job-go/util"
 	"github.com/sirupsen/logrus"
 	"strings"
 )
