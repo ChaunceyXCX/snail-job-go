@@ -72,7 +72,7 @@ func (p ExecuteResult) WithStatus(status int) *ExecuteResult {
 }
 
 type JobArgsHolder struct {
-	JobParams interface{} `json:"job_params"`
+	JobParams interface{} `json:"jobParams"`
 	Maps      interface{} `json:"maps"`
 	Reduces   interface{} `json:"reduces"`
 }
