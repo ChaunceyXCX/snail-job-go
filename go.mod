@@ -1,4 +1,4 @@
-module github.com/open-snail/snail-job-go
+module github.com/ChaunceyXCX/snail-job-go
 
 go 1.22.7
 
